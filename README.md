@@ -1,7 +1,7 @@
 - 👋 Hi
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning a lot of things
-- 📫 later ...
+- 📫 Later ..
 
 <!---
 bcamb/bcamb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
